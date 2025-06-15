@@ -1,0 +1,14 @@
+# Ignore virtual environment
+venv/
+.venv/
+
+# Ignore PyCharm files
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.DS_Store
